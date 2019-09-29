@@ -1,0 +1,15 @@
+.git/
+/target/
+.settings
+.classpath
+.project
+portal.iml
+.idea
+*iml
+*target*
+*/application-*
+*application-*l
+logs/
+*logs*
+.DS_Store
+*.log
